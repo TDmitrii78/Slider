@@ -1,0 +1,15 @@
+@import 'libs/bootstrap-reboot.min';
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&family=Roboto:wght@300;400;700&display=swap');
+
+* {
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 14px;
+    color: black;
+}
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+@import 'blocks/slider';
