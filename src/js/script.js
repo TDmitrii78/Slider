@@ -1,3 +1,4 @@
+'use strict';
 function slider() {
     const items = document.querySelectorAll('.slider__item');
     const wrapper = document.querySelector('.slider__wrapper');
